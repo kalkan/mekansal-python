@@ -4,6 +4,8 @@ Anaconda Kurulum: [İndir](https://www.anaconda.com/products/individual)
 
 Kullandığımız Kütüphaneler: Geopandas, Numpy, Pandas, Shapely, Matplotlib
 
+Veri Kaynaklarımız: http://www.naturalearthdata.com/ , http://gadm.org
+
 # Videolar
 
 [Mekansal Python 1 - Geopandas, Jupyter Notebook, Veri Okuma, Alan, Tampon Analizi](https://www.youtube.com/watch?v=NOMWTHSrlvI)
