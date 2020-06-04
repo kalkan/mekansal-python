@@ -6,6 +6,8 @@ Kullandığımız Kütüphaneler: Geopandas, Numpy, Pandas, Shapely, Matplotlib
 
 Veri Kaynaklarımız: http://www.naturalearthdata.com/ , http://gadm.org
 
+Bilgisayarınızda github yüklü değil ise sağ üstteki clone or download linki ile dosyaları ve Jupyter Notebook dosyamızı bilgisayarınıza indirebilirsiniz.
+
 # Videolar
 
 [Mekansal Python 1 - Geopandas, Jupyter Notebook, Veri Okuma, Alan, Tampon Analizi](https://www.youtube.com/watch?v=NOMWTHSrlvI)
