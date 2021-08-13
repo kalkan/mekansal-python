@@ -20,3 +20,4 @@ Bilgisayarınızda github yüklü değil ise sağ üstteki clone or download lin
 
 [Mekansal Python 5 - Görselleştirme, Harita Yapımı](https://www.youtube.com/watch?v=gofAu-jHkEw)
 
+
