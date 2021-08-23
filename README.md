@@ -35,4 +35,4 @@
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Sentinel uydu görüntülerini arama ve indirme için. 
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Geometrik operasyonlar ve analizler için.
 * [srtm.py](https://github.com/tkrajina/srtm.py) - Python ile SRTM sayısal yükseklik verilerine verilerine erişim.
-* [PyDelaunay](https://github.com/bennycheung/PyDelaunay)
+* [PyDelaunay](https://github.com/bennycheung/PyDelaunay) - Delaunay üçgenlemesi
