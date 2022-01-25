@@ -36,3 +36,5 @@
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Geometrik operasyonlar ve analizler için.
 * [srtm.py](https://github.com/tkrajina/srtm.py) - Python ile SRTM sayısal yükseklik verilerine verilerine erişim.
 * [PyDelaunay](https://github.com/bennycheung/PyDelaunay) - Delaunay üçgenlemesi
+* [zonalstatistics](https://github.com/shakasom/zonalstatistics) - Bölgesel istatistik hesapları (Rasterio&Geopandas)
+
